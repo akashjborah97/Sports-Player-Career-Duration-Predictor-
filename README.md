@@ -1,0 +1,2 @@
+# NBA-Player-Career-Duration
+The dataset contains National Basketball Association’s tabular data of 22 columns, all regarding a player's performance records such as e.g. the number of 3 Points made. If a Rookie (new player) is successful or not depends on many variables - especially on his performance in the first season. Sometimes, it is possible to use statistics about such players to predict whether they will last 5 years in the NBA or not. Logistics Regression is implemented on the dataset to generated  the precision-recall tradeoff and the AUC-ROC curve.
